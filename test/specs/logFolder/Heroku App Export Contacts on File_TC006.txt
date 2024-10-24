@@ -1,1 +1,17 @@
-[Thursday, October 24th 2024 16:17:05] - Test Started: Heroku App Export Contacts on File_TC006
+[Thursday, October 24th 2024 16:19:45] - Header and Data:
+Name: John Doe
+Birthdate: 1990-01-01
+Email: john.doe@example.com
+Phone: 09168223579
+Address: 123 Elm St Apt 4B
+City, State/Province, Postal Code: Springfield IL 62701
+Country: USA
+
+Name: Emily Johnson
+Birthdate: 1992-12-20
+Email: emily.johnson@example.com
+Phone: 8005559876
+Address: 789 Pine St Suite 300
+City, State/Province, Postal Code: Gotham NJ 07001
+Country: USA
+

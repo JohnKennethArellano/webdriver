@@ -1,1 +1,1 @@
-{"total":1,"items":[{"uid":"ff9b43c34a817b44fa9b6edf61b00141","name":"My Login application","statistic":{"failed":1,"broken":0,"skipped":0,"passed":1,"unknown":0,"total":2}}]}
+{"total":1,"items":[{"uid":"82129cc421eaba60cf92b7beef01552d","name":"Heroku App","statistic":{"failed":0,"broken":0,"skipped":0,"passed":6,"unknown":0,"total":6}}]}

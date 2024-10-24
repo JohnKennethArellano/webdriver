@@ -1,97 +1,97 @@
-[Thursday, October 24th 2024 16:16:38] - Test Started: Heroku App Add Contact TC003
-[Thursday, October 24th 2024 16:16:38] - Adding contact: John Doe
-[Thursday, October 24th 2024 16:16:38] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:16:39] - Executed Function: //button[@id="add-contact"]
+[Thursday, October 24th 2024 16:19:14] - Test Started: Heroku App Add Contact TC003
+[Thursday, October 24th 2024 16:19:14] - Adding contact: John Doe
+[Thursday, October 24th 2024 16:19:15] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:19:15] - Executed Function: //button[@id="add-contact"]
 
 
-[Thursday, October 24th 2024 16:16:39] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:40] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [John]
-[Thursday, October 24th 2024 16:16:40] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:40] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [Doe]
-[Thursday, October 24th 2024 16:16:40] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:40] - Completed Function: setObjValue - Object [//input[@id="birthdate"]] Text [1990-01-01]
-[Thursday, October 24th 2024 16:16:41] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:41] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [john.doe@example.com]
-[Thursday, October 24th 2024 16:16:41] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:41] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [8005551234]
-[Thursday, October 24th 2024 16:16:41] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:42] - Completed Function: setObjValue - Object [//input[@id="street1"]] Text [123 Elm St]
-[Thursday, October 24th 2024 16:16:42] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:42] - Completed Function: setObjValue - Object [//input[@id="street2"]] Text [Apt 4B]
-[Thursday, October 24th 2024 16:16:42] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:42] - Completed Function: setObjValue - Object [//input[@id="city"]] Text [Springfield]
-[Thursday, October 24th 2024 16:16:42] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:43] - Completed Function: setObjValue - Object [//input[@id="stateProvince"]] Text [IL]
-[Thursday, October 24th 2024 16:16:43] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:43] - Completed Function: setObjValue - Object [//input[@id="postalCode"]] Text [62701]
-[Thursday, October 24th 2024 16:16:43] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:43] - Completed Function: setObjValue - Object [//input[@id="country"]] Text [USA]
-[Thursday, October 24th 2024 16:16:43] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:16:44] - Executed Function: //button[@id="submit"]
+[Thursday, October 24th 2024 16:19:15] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:16] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [John]
+[Thursday, October 24th 2024 16:19:16] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:17] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [Doe]
+[Thursday, October 24th 2024 16:19:17] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:17] - Completed Function: setObjValue - Object [//input[@id="birthdate"]] Text [1990-01-01]
+[Thursday, October 24th 2024 16:19:17] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:18] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [john.doe@example.com]
+[Thursday, October 24th 2024 16:19:18] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:18] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [8005551234]
+[Thursday, October 24th 2024 16:19:18] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:19] - Completed Function: setObjValue - Object [//input[@id="street1"]] Text [123 Elm St]
+[Thursday, October 24th 2024 16:19:19] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:19] - Completed Function: setObjValue - Object [//input[@id="street2"]] Text [Apt 4B]
+[Thursday, October 24th 2024 16:19:19] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:19] - Completed Function: setObjValue - Object [//input[@id="city"]] Text [Springfield]
+[Thursday, October 24th 2024 16:19:19] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:20] - Completed Function: setObjValue - Object [//input[@id="stateProvince"]] Text [IL]
+[Thursday, October 24th 2024 16:19:20] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:20] - Completed Function: setObjValue - Object [//input[@id="postalCode"]] Text [62701]
+[Thursday, October 24th 2024 16:19:20] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:20] - Completed Function: setObjValue - Object [//input[@id="country"]] Text [USA]
+[Thursday, October 24th 2024 16:19:20] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:19:21] - Executed Function: //button[@id="submit"]
 
 
-[Thursday, October 24th 2024 16:16:44] - Contact John Doe added successfully.
-[Thursday, October 24th 2024 16:16:44] - Adding contact: Jane Smith
-[Thursday, October 24th 2024 16:16:44] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:16:45] - Executed Function: //button[@id="add-contact"]
+[Thursday, October 24th 2024 16:19:21] - Contact John Doe added successfully.
+[Thursday, October 24th 2024 16:19:21] - Adding contact: Jane Smith
+[Thursday, October 24th 2024 16:19:21] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:19:22] - Executed Function: //button[@id="add-contact"]
 
 
-[Thursday, October 24th 2024 16:16:45] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:46] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [Jane]
-[Thursday, October 24th 2024 16:16:46] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:46] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [Smith]
-[Thursday, October 24th 2024 16:16:46] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:47] - Completed Function: setObjValue - Object [//input[@id="birthdate"]] Text [1985-05-15]
-[Thursday, October 24th 2024 16:16:47] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:47] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [jane.smith@example.com]
-[Thursday, October 24th 2024 16:16:47] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:48] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [8005555678]
-[Thursday, October 24th 2024 16:16:48] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:48] - Completed Function: setObjValue - Object [//input[@id="street1"]] Text [456 Oak St]
-[Thursday, October 24th 2024 16:16:48] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:48] - Completed Function: setObjValue - Object [//input[@id="street2"]] Text [Unit 5]
-[Thursday, October 24th 2024 16:16:48] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:49] - Completed Function: setObjValue - Object [//input[@id="city"]] Text [Metropolis]
-[Thursday, October 24th 2024 16:16:49] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:49] - Completed Function: setObjValue - Object [//input[@id="stateProvince"]] Text [NY]
-[Thursday, October 24th 2024 16:16:49] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:50] - Completed Function: setObjValue - Object [//input[@id="postalCode"]] Text [10001]
-[Thursday, October 24th 2024 16:16:50] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:50] - Completed Function: setObjValue - Object [//input[@id="country"]] Text [USA]
-[Thursday, October 24th 2024 16:16:50] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:16:50] - Executed Function: //button[@id="submit"]
+[Thursday, October 24th 2024 16:19:22] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:23] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [Jane]
+[Thursday, October 24th 2024 16:19:23] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:23] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [Smith]
+[Thursday, October 24th 2024 16:19:23] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:24] - Completed Function: setObjValue - Object [//input[@id="birthdate"]] Text [1985-05-15]
+[Thursday, October 24th 2024 16:19:24] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:24] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [jane.smith@example.com]
+[Thursday, October 24th 2024 16:19:24] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:24] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [8005555678]
+[Thursday, October 24th 2024 16:19:24] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:25] - Completed Function: setObjValue - Object [//input[@id="street1"]] Text [456 Oak St]
+[Thursday, October 24th 2024 16:19:25] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:25] - Completed Function: setObjValue - Object [//input[@id="street2"]] Text [Unit 5]
+[Thursday, October 24th 2024 16:19:25] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:26] - Completed Function: setObjValue - Object [//input[@id="city"]] Text [Metropolis]
+[Thursday, October 24th 2024 16:19:26] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:26] - Completed Function: setObjValue - Object [//input[@id="stateProvince"]] Text [NY]
+[Thursday, October 24th 2024 16:19:26] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:26] - Completed Function: setObjValue - Object [//input[@id="postalCode"]] Text [10001]
+[Thursday, October 24th 2024 16:19:26] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:27] - Completed Function: setObjValue - Object [//input[@id="country"]] Text [USA]
+[Thursday, October 24th 2024 16:19:27] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:19:27] - Contact Jane Smith added successfully.
+[Thursday, October 24th 2024 16:19:27] - Executed Function: //button[@id="submit"]
 
 
-[Thursday, October 24th 2024 16:16:50] - Contact Jane Smith added successfully.
-[Thursday, October 24th 2024 16:16:50] - Adding contact: Emily Johnson
-[Thursday, October 24th 2024 16:16:50] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:16:52] - Executed Function: //button[@id="add-contact"]
+[Thursday, October 24th 2024 16:19:27] - Adding contact: Emily Johnson
+[Thursday, October 24th 2024 16:19:27] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:19:29] - Executed Function: //button[@id="add-contact"]
 
 
-[Thursday, October 24th 2024 16:16:52] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:53] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [Emily]
-[Thursday, October 24th 2024 16:16:53] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:54] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [Johnson]
-[Thursday, October 24th 2024 16:16:54] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:54] - Completed Function: setObjValue - Object [//input[@id="birthdate"]] Text [1992-12-20]
-[Thursday, October 24th 2024 16:16:54] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:55] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [emily.johnson@example.com]
-[Thursday, October 24th 2024 16:16:55] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:55] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [8005559876]
-[Thursday, October 24th 2024 16:16:55] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:55] - Completed Function: setObjValue - Object [//input[@id="street1"]] Text [789 Pine St]
-[Thursday, October 24th 2024 16:16:55] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:56] - Completed Function: setObjValue - Object [//input[@id="street2"]] Text [Suite 300]
-[Thursday, October 24th 2024 16:16:56] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:56] - Completed Function: setObjValue - Object [//input[@id="city"]] Text [Gotham]
-[Thursday, October 24th 2024 16:16:56] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:57] - Completed Function: setObjValue - Object [//input[@id="stateProvince"]] Text [NJ]
-[Thursday, October 24th 2024 16:16:57] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:58] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:16:58] - Completed Function: setObjValue - Object [//input[@id="postalCode"]] Text [07001]
-[Thursday, October 24th 2024 16:16:58] - Completed Function: setObjValue - Object [//input[@id="country"]] Text [USA]
-[Thursday, October 24th 2024 16:16:58] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:16:58] - Executed Function: //button[@id="submit"]
+[Thursday, October 24th 2024 16:19:29] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:30] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [Emily]
+[Thursday, October 24th 2024 16:19:30] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:30] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [Johnson]
+[Thursday, October 24th 2024 16:19:30] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:31] - Completed Function: setObjValue - Object [//input[@id="birthdate"]] Text [1992-12-20]
+[Thursday, October 24th 2024 16:19:31] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:32] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [emily.johnson@example.com]
+[Thursday, October 24th 2024 16:19:32] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:32] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [8005559876]
+[Thursday, October 24th 2024 16:19:32] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:33] - Completed Function: setObjValue - Object [//input[@id="street1"]] Text [789 Pine St]
+[Thursday, October 24th 2024 16:19:33] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:33] - Completed Function: setObjValue - Object [//input[@id="street2"]] Text [Suite 300]
+[Thursday, October 24th 2024 16:19:33] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:33] - Completed Function: setObjValue - Object [//input[@id="city"]] Text [Gotham]
+[Thursday, October 24th 2024 16:19:33] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:34] - Completed Function: setObjValue - Object [//input[@id="stateProvince"]] Text [NJ]
+[Thursday, October 24th 2024 16:19:34] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:34] - Completed Function: setObjValue - Object [//input[@id="postalCode"]] Text [07001]
+[Thursday, October 24th 2024 16:19:34] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:19:34] - Completed Function: setObjValue - Object [//input[@id="country"]] Text [USA]
+[Thursday, October 24th 2024 16:19:34] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:19:35] - Executed Function: //button[@id="submit"]
 
 
-[Thursday, October 24th 2024 16:16:58] - Contact Emily Johnson added successfully.
+[Thursday, October 24th 2024 16:19:35] - Contact Emily Johnson added successfully.

@@ -121,11 +121,9 @@ describe('Heroku App', () => {
         await objUtils.clickObject(EditContactObjects.deleteBtn)
 
         await browser.acceptAlert();
-
     })
 
     it('Heroku App Export Contacts on File_TC006', async () => {   
-
         await browser.pause(2000)
         const rows = await contactList.tableRowsELm;
         const td = await contactList.tableRowsTDELm;

@@ -34,7 +34,7 @@ class Credentials {
     getTimeAndDateAndSeatNumber() {
         const dateAndTime = moment(new Date()).format('YYYYMMDDHHMM');
         const seatNumber = 14;
-        return `testsssss_${dateAndTime}${seatNumber}@testaq.com`;
+        return `testqa_${dateAndTime}${seatNumber}@testaq.com`;
     }
 }
 
