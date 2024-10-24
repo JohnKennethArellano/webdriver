@@ -1,18 +1,18 @@
-[Thursday, October 24th 2024 16:19:10] - Test Started: Heroku App Login User_TC002
-[Thursday, October 24th 2024 16:19:10] - User Click Logout Button
-[Thursday, October 24th 2024 16:19:10] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:19:11] - Executed Function: //button[@id="logout"]
+[Thursday, October 24th 2024 16:28:51] - Test Started: Heroku App Login User_TC002
+[Thursday, October 24th 2024 16:28:51] - User Click Logout Button
+[Thursday, October 24th 2024 16:28:51] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:28:53] - Executed Function: //button[@id="logout"]
 
 
-[Thursday, October 24th 2024 16:19:11] - User Fill up Email Field
-[Thursday, October 24th 2024 16:19:11] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:19:13] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [testssssss_20241024161014@testaq.com]
-[Thursday, October 24th 2024 16:19:13] - User Fill up Password Field
-[Thursday, October 24th 2024 16:19:13] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:19:14] - Completed Function: setObjValue - Object [//input[@id="password"]] Text [SamplePassword]
-[Thursday, October 24th 2024 16:19:14] - User Click Login Button
-[Thursday, October 24th 2024 16:19:14] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:19:14] - Executed Function: //button[@id="submit"]
+[Thursday, October 24th 2024 16:28:53] - User Fill up Email Field
+[Thursday, October 24th 2024 16:28:53] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:28:54] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [test1_20241024161014@testaq.com]
+[Thursday, October 24th 2024 16:28:54] - User Fill up Password Field
+[Thursday, October 24th 2024 16:28:54] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:28:55] - Completed Function: setObjValue - Object [//input[@id="password"]] Text [SamplePassword]
+[Thursday, October 24th 2024 16:28:55] - User Click Login Button
+[Thursday, October 24th 2024 16:28:55] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:28:55] - Executed Function: //button[@id="submit"]
 
 
-[Thursday, October 24th 2024 16:19:14] - User Successfully Loged In
+[Thursday, October 24th 2024 16:28:55] - User Successfully Loged In

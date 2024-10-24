@@ -1,24 +1,24 @@
-[Thursday, October 24th 2024 16:19:35] - Test Started: Heroku App Edit Contact TC004
-[Thursday, October 24th 2024 16:19:35] - User Edit Contact Details
-[Thursday, October 24th 2024 16:19:35] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:19:36] - Executed Function: //table/tr[1]/td[2]
+[Thursday, October 24th 2024 16:29:15] - Test Started: Heroku App Edit Contact TC004
+[Thursday, October 24th 2024 16:29:15] - User Edit Contact Details
+[Thursday, October 24th 2024 16:29:15] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:29:18] - Executed Function: //table/tr[1]/td[2]
 
 
-[Thursday, October 24th 2024 16:19:37] - User Edit Contact Details
-[Thursday, October 24th 2024 16:19:37] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:19:38] - Executed Function: //button[@id="edit-contact"]
+[Thursday, October 24th 2024 16:29:18] - User Edit Contact Details
+[Thursday, October 24th 2024 16:29:18] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:29:20] - Executed Function: //button[@id="edit-contact"]
 
 
-[Thursday, October 24th 2024 16:19:38] - User Edit Contact Number
-[Thursday, October 24th 2024 16:19:38] - Starting Function: setObjValue
-[Thursday, October 24th 2024 16:19:38] - User Edit Contact Details
-[Thursday, October 24th 2024 16:19:38] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [09168223579]
-[Thursday, October 24th 2024 16:19:38] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:19:38] - Executed Function: //button[@id="submit"]
+[Thursday, October 24th 2024 16:29:20] - User Edit Contact Number
+[Thursday, October 24th 2024 16:29:20] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:29:20] - Completed Function: setObjValue - Object [//input[@id="phone"]] Text [09168223579]
+[Thursday, October 24th 2024 16:29:20] - User Edit Contact Details
+[Thursday, October 24th 2024 16:29:20] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:29:20] - Executed Function: //button[@id="submit"]
 
 
-[Thursday, October 24th 2024 16:19:38] - Starting Function: clickObject
-[Thursday, October 24th 2024 16:19:40] - Executed Function: //button[@id="return"]
+[Thursday, October 24th 2024 16:29:21] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:29:22] - Executed Function: //button[@id="return"]
 
 
-[Thursday, October 24th 2024 16:19:40] - Phone numbers changed Expected: 8005551234, New Number: 09168223579
+[Thursday, October 24th 2024 16:29:22] - Phone numbers changed Expected: 8005551234, New Number: 09168223579
