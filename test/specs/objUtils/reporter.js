@@ -6,7 +6,6 @@ class Reporter {
         await File.AppendToFile(global.strPath, strMsg)
         await AllureReporter.addStep(strMsg);
     }
-
     async addStep(){
 
     }

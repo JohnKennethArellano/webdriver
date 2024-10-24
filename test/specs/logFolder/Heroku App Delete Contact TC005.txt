@@ -1,0 +1,10 @@
+[Thursday, October 24th 2024 16:17:03] - Test Started: Heroku App Delete Contact TC005
+[Thursday, October 24th 2024 16:17:04] - User click last elem
+[Thursday, October 24th 2024 16:17:04] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:17:04] - Executed Function: //table/tr[3]/td[2]
+
+
+[Thursday, October 24th 2024 16:17:04] - User Delete Contact
+[Thursday, October 24th 2024 16:17:04] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:17:05] - Executed Function: //button[@id="delete"]
+

@@ -27,7 +27,7 @@ export const config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/specs/*.js'
+        './test/specs/TestSuite/*.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -57,9 +57,10 @@ export const config = {
     //
     capabilities: [{
         browserName: 'chrome',
+        'wdio:enforceWebDriverClassic': true,
         'goog:chromeOptions':{
             // args : ['--wiindow-size=960, 540'],
-            args : ['--headless']
+            // args : ['--headless']
         }
     }],
 

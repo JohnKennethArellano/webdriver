@@ -1,7 +1,8 @@
 import fs from "fs";
 import moment from "moment";
+
 class File {
-  // function to create a text file
+
   async CreateTxtFile(strPath, strText) {
     const strDateTime = moment(new Date()).format(
       "dddd, MMMM Do YYYY HH:mm:ss"

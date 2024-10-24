@@ -1,0 +1,41 @@
+[
+    {
+        "firstName": "John",
+        "lastName": "Doe",
+        "dob": "1990-01-01",
+        "email": "john.doe@example.com",
+        "phone": "8005551234",
+        "address1": "123 Elm St",
+        "address2": "Apt 4B",
+        "city": "Springfield",
+        "state": "IL",
+        "postalCode": "62701",
+        "country": "USA"
+    },
+    {
+        "firstName": "Jane",
+        "lastName": "Smith",
+        "dob": "1985-05-15",
+        "email": "jane.smith@example.com",
+        "phone": "8005555678",
+        "address1": "456 Oak St",
+        "address2": "Unit 5",
+        "city": "Metropolis",
+        "state": "NY",
+        "postalCode": "10001",
+        "country": "USA"
+    },
+    {
+        "firstName": "Emily",
+        "lastName": "Johnson",
+        "dob": "1992-12-20",
+        "email": "emily.johnson@example.com",
+        "phone": "8005559876",
+        "address1": "789 Pine St",
+        "address2": "Suite 300",
+        "city": "Gotham",
+        "state": "NJ",
+        "postalCode": "07001",
+        "country": "USA"
+    }
+]

@@ -1,0 +1,25 @@
+[Thursday, October 24th 2024 16:16:28] - Test Started: Heroku App SignUp_TC001
+[Thursday, October 24th 2024 16:16:28] - Navigate to Website
+[Thursday, October 24th 2024 16:16:31] - User Click Sign Up
+[Thursday, October 24th 2024 16:16:31] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:16:32] - Executed Function: //button[@id="signup"]
+
+
+[Thursday, October 24th 2024 16:16:32] - User Fill up First Name Field
+[Thursday, October 24th 2024 16:16:32] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:16:33] - Completed Function: setObjValue - Object [//input[@id="firstName"]] Text [SampleFirstName]
+[Thursday, October 24th 2024 16:16:33] - User Fill up Last Name Field
+[Thursday, October 24th 2024 16:16:33] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:16:33] - Completed Function: setObjValue - Object [//input[@id="lastName"]] Text [SampleLastName]
+[Thursday, October 24th 2024 16:16:33] - User Fill up Email Field
+[Thursday, October 24th 2024 16:16:33] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:16:34] - Completed Function: setObjValue - Object [//input[@id="email"]] Text [testsssss_20241024161014@testaq.com]
+[Thursday, October 24th 2024 16:16:34] - User Fill up Password Field
+[Thursday, October 24th 2024 16:16:34] - Starting Function: setObjValue
+[Thursday, October 24th 2024 16:16:34] - Completed Function: setObjValue - Object [//input[@id="password"]] Text [SamplePassword]
+[Thursday, October 24th 2024 16:16:34] - User Click submit Register
+[Thursday, October 24th 2024 16:16:34] - Starting Function: clickObject
+[Thursday, October 24th 2024 16:16:34] - Executed Function: //button[@id="submit"]
+
+
+[Thursday, October 24th 2024 16:16:34] - User Successfully Registered
