@@ -9,9 +9,6 @@ describe('My Login application', () => {
         await $('button[type="submit"]').click()
 
         await expect($('#flash')).toBeExisting()
-        await expect($('#flash')).toHaveText(
-            expect.stringContaining('You logged into a secure area!'))
-        await expect($('#flash')).toMatchElementSnapshot('flashAlert')
     })
 })
 

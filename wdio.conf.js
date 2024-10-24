@@ -1,7 +1,8 @@
 
 import File from "./test/specs/objUtils/File.js"
 
-const lofFolder = `/home/citco/Documents/web/test/specs/logFolder/`
+const logFolder = `/home/citco/Documents/web/test/specs/logFolder/`
+const allureLogFolder = `/home/citco/Documents/web/allure-results`
 
 export const config = {
     //
@@ -26,7 +27,7 @@ export const config = {
     // of the config file unless it's absolute.
     //
     specs: [
-        './test/specs/test.js'
+        './test/specs/*.js'
     ],
     // Patterns to exclude.
     exclude: [
@@ -58,7 +59,7 @@ export const config = {
         browserName: 'chrome',
         'goog:chromeOptions':{
             // args : ['--wiindow-size=960, 540'],
-            // args : ['--headless']
+            args : ['--headless']
         }
     }],
 
@@ -154,8 +155,10 @@ export const config = {
      * @param {object} config wdio configuration object
      * @param {Array.<Object>} capabilities list of capabilities details
      */
-    // onPrepare: function (config, capabilities) {
-    // },
+    onPrepare: async function (config, capabilities) {
+        await File.deleteFolderContents(logFolder)
+        await File.deleteFolderContents(allureLogFolder)
+    },
     /**
      * Gets executed before a worker process is spawned and can be used to initialize specific service
      * for that worker as well as modify runtime environments in an async fashion.
@@ -212,8 +215,8 @@ export const config = {
      * Function to be executed before a test (in Mocha/Jasmine) starts.
      */
     beforeTest: async function (test, context) {
-        global.strPath = `${lofFolder}/${test.title}` 
-        await File.createTxtFile(strPath, `Test Started: ${test.title}`)
+        global.strPath = `${logFolder}/${test.title}` 
+        await File.CreateTxtFile(strPath, `Test Started: ${test.title}`)
     },
     /**
      * Hook that gets executed _before_ a hook within the suite starts (e.g. runs before calling

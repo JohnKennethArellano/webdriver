@@ -1,2 +1,3 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","28053","FILLING SAMPLE FIELDS","","Wed Oct 23 16:27:40 PST 2024","failed","Wed Oct 23 16:28:08 PST 2024","","My Login application","",""
+"","8097","FILLING SAMPLE FIELDS","","Thu Oct 24 10:15:43 PST 2024","passed","Thu Oct 24 10:15:51 PST 2024","","My Login application","",""
+"","7915","should login with valid credentials","","Thu Oct 24 10:15:43 PST 2024","failed","Thu Oct 24 10:15:51 PST 2024","","My Login application","",""
